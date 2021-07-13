@@ -1,0 +1,4 @@
+Step 1 : Order Pizza
+Step 2 : Wait for Pizza
+Step 3 : Answer Door
+Step 4 : Pay for Pizza
